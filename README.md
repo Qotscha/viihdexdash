@@ -3,7 +3,7 @@
 A command line tool for downloading HLS streams with multiple audio and subtitle tracks (designed especially for Elisa Viihde recordings) using FFmpeg.
 
 ## Requirements
-[Python 3](https://www.python.org/downloads/) and libraries [langcodes](https://pypi.org/project/langcodes/) and [Requests](https://pypi.org/project/requests/) are required.
+[Python 3](https://www.python.org/downloads/) and libraries [langcodes](https://pypi.org/project/langcodes/), [PyCaption](https://pypi.org/project/pycaption/) and [Requests](https://pypi.org/project/requests/) are required.
 
 [FFmpeg](https://www.ffmpeg.org) is needed to download streams.
 
